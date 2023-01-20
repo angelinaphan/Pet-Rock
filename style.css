@@ -1,3 +1,24 @@
 body {
   background-color: #628354;
 }
+
+.welc {
+  text-align: center;
+  color: #DDCFBE;
+  font-family: "Titan One";
+}
+
+h5 {
+  text-align: center;
+  color: #DDCFBE;
+  font-family: "Titan One";
+}
+
+.list {
+  color: #DDCFBE;
+  font-size: 30px;
+}
+
+ul {
+  list-style-type: circle;
+}
