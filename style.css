@@ -12,6 +12,7 @@ h5 {
   text-align: center;
   color: #DDCFBE;
   font-family: "Titan One";
+  font-size: 20px;
 }
 
 .list {
@@ -21,5 +22,18 @@ h5 {
 
 ul {
   list-style-type: circle;
+}
+
+li a.active {
+  background-color: #6F4D2A;
+  color: #628354;
+}
+
+.nav-link {
+  color:  #628354;
+}
+
+.nav-link:hover {
+color:#DDCFBE;
 }
 
